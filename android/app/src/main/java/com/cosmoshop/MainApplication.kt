@@ -1,4 +1,4 @@
-package com.cosmoshop
+package com.GlowCart
 
 import android.app.Application
 import com.facebook.react.PackageList
